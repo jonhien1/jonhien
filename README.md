@@ -4,7 +4,7 @@
 I am a Senior Designer specializing in both graphic design and user experience & interface development for Websites. In addition, I am also a Junior Development and am planning to develop GTA Multiplayer game.
 </p>
 <p align="center"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+Currently I am Founder of LS:RP Team and co-founded V:Team with Brian Ngo.
 </p>
 
 <div align="center">
@@ -15,36 +15,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 </div>
 <br>
 
-<h3>How I'd define myself...literally</h3>
 
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'Sy Rashid'
-     @age = 31
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
-   end
-
-   def current_location
-     'Burke, VA, USA'
-   end
-
-   def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
-   end
-
-   def currently
-     {
-       studying: [ 'Network Security' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
-      }
-   end
- end
- ```
- 
 <br>
 
 ### What I always play with
